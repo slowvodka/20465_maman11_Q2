@@ -65,6 +65,6 @@ void printMetadata(long unsigned num1,long unsigned num2,long unsigned num,int c
     printf("\n");
     printf("first number is %lu\n",num1);
     printf("second number is %lu\n",num2);
-    printf("bitwise sum of numBers is %lu\n",num);
-    printf("number if 'on' bits in number is %d",count);
+    printf("bitwise sum of numbers is %lu\n",num);
+    printf("number of 'on' bits in number is %d",count);
 }

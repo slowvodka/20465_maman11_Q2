@@ -2,29 +2,29 @@
 please enter a number:please enter a number:
 first number is 1
 second number is 1
-bitwise sum of numBers is 1
-number if 'on' bits in number is 1
+bitwise sum of numbers is 1
+number of 'on' bits in number is 1
 
 please enter a number:please enter a number:
 first number is 7
 second number is 2
-bitwise sum of numBers is 2
-number if 'on' bits in number is 1
+bitwise sum of numbers is 2
+number of 'on' bits in number is 1
 
 please enter a number:please enter a number:
 first number is 2
 second number is 7
-bitwise sum of numBers is 2
-number if 'on' bits in number is 1
+bitwise sum of numbers is 2
+number of 'on' bits in number is 1
 
 please enter a number:please enter a number:
 first number is 4294967295
 second number is 42949672
-bitwise sum of numBers is 42949672
-number if 'on' bits in number is 12
+bitwise sum of numbers is 42949672
+number of 'on' bits in number is 12
 
 please enter a number:please enter a number:
 first number is 255
 second number is 127
-bitwise sum of numBers is 127
-number if 'on' bits in number is 7
+bitwise sum of numbers is 127
+number of 'on' bits in number is 7
