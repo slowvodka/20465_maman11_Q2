@@ -7,23 +7,27 @@ void printMetadata(long unsigned num1,long unsigned num2,long unsigned num,int c
 
 int main() {
 
+    //define
     long unsigned num1,num2,num;
     int count;
+
+    //body
     num1 = getNumber();
     num2 = getNumber();
     num = bitwiseAnd(num1,num2);
     count = countBits(num );
 
+    //some prints
     printMetadata(num1,num2,num,count);
 }
 long int getNumber()
 {
     /**
-     * function to get a number from use
+     * function to get a number from user
      * @return an unsigned long
      */
     unsigned long num;
-    printf("please enter a number:");
+    printf("please enter a positive int number:");
     scanf("%lu",&num);
     return num;
 }
